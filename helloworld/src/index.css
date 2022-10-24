@@ -1,0 +1,38 @@
+.heading {
+  text-align: center;
+  align-items: center;
+  text-decoration: none;
+  /* text-indent: 3px; */
+}
+.heading ul li {
+  text-decoration: none;
+  list-style: none;
+}
+.heading p {
+  text-decoration: none;
+}
+.main {
+  display: flex;
+}
+.zaid {
+  color: lightgrey;
+  text-align: center;
+}
+.bin {
+  color: lightgrey;
+}
+.asim {
+  color: lightgrey;
+}
+.container {
+  color: aliceblue;
+  margin-left: -5px;
+  width: 30%;
+  border: 2px solid rgb(58, 63, 90);
+  background-color: #0e5170;
+}
+.container2 {
+  background-color: #fff;
+  width: 70%;
+  margin-left: 24px;
+}
